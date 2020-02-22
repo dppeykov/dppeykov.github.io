@@ -301,6 +301,13 @@ h6 {
   border-radius: 0px;
 }
 
+.modal-content-ons {
+  background: #fff;
+  background-image: url("../img/ONS_logo.png");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
 .modal-content-att {
   background: #fff;
   background-image: url("../img/AT&T_logo.png");
